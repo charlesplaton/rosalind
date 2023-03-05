@@ -1,4 +1,3 @@
-import re
 fhandle = open(input('File? '))
 
 seq = ''
